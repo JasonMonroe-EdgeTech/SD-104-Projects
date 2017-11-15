@@ -1,0 +1,7 @@
+C:\Projects\SD-104-CSharp\Lab 3 - BMI Calculator\bin\Debug\Lab 3 - BMI Calculator.exe.config
+C:\Projects\SD-104-CSharp\Lab 3 - BMI Calculator\bin\Debug\Lab 3 - BMI Calculator.exe
+C:\Projects\SD-104-CSharp\Lab 3 - BMI Calculator\bin\Debug\Lab 3 - BMI Calculator.pdb
+C:\Projects\SD-104-CSharp\Lab 3 - BMI Calculator\obj\Debug\Lab 3 - BMI Calculator.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104-CSharp\Lab 3 - BMI Calculator\obj\Debug\Lab 3 - BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104-CSharp\Lab 3 - BMI Calculator\obj\Debug\Lab 3 - BMI Calculator.exe
+C:\Projects\SD-104-CSharp\Lab 3 - BMI Calculator\obj\Debug\Lab 3 - BMI Calculator.pdb
