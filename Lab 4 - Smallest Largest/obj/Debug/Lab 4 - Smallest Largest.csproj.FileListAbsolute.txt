@@ -1,0 +1,7 @@
+C:\Projects\SD-104-CSharp\Lab 4 - Smallest Largest\bin\Debug\Lab 4 - Smallest Largest.exe.config
+C:\Projects\SD-104-CSharp\Lab 4 - Smallest Largest\bin\Debug\Lab 4 - Smallest Largest.exe
+C:\Projects\SD-104-CSharp\Lab 4 - Smallest Largest\bin\Debug\Lab 4 - Smallest Largest.pdb
+C:\Projects\SD-104-CSharp\Lab 4 - Smallest Largest\obj\Debug\Lab 4 - Smallest Largest.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104-CSharp\Lab 4 - Smallest Largest\obj\Debug\Lab 4 - Smallest Largest.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104-CSharp\Lab 4 - Smallest Largest\obj\Debug\Lab 4 - Smallest Largest.exe
+C:\Projects\SD-104-CSharp\Lab 4 - Smallest Largest\obj\Debug\Lab 4 - Smallest Largest.pdb
