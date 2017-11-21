@@ -1,0 +1,7 @@
+C:\Projects\SD-104-CSharp\Hangman-Console\obj\Debug\Hangman Console.csprojResolveAssemblyReference.cache
+C:\Projects\SD-104-CSharp\Hangman-Console\obj\Debug\Hangman Console.csproj.CoreCompileInputs.cache
+C:\Projects\SD-104-CSharp\Hangman-Console\bin\Debug\Hangman Console.exe.config
+C:\Projects\SD-104-CSharp\Hangman-Console\bin\Debug\Hangman Console.exe
+C:\Projects\SD-104-CSharp\Hangman-Console\bin\Debug\Hangman Console.pdb
+C:\Projects\SD-104-CSharp\Hangman-Console\obj\Debug\Hangman Console.exe
+C:\Projects\SD-104-CSharp\Hangman-Console\obj\Debug\Hangman Console.pdb
